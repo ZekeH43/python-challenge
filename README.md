@@ -42,7 +42,7 @@ Tests check the original CSV totals, negative/zero changes, invalid inputs, and 
 
 ## Source coursework and next steps
 
-- [Original PyBank notebook](PyBank/main.ipynb/main.ipynb/main.ipynb) is intentionally preserved as a learning artifact.
+- [Original PyBank notebook](PyBank/main.ipynb/main.ipynb) is intentionally preserved as a learning artifact.
 - The `PyRamen/main.ipynb` file is empty in the original repository; **PyRamen is not implemented** here.
 - Older duplicate notebooks and checkpoints remain historical artifacts; new work should use `pybank.py`.
 
